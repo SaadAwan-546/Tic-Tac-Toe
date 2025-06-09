@@ -1,4 +1,10 @@
 # Tic-Tac-Toe Game
-This repository contain my Programming Fundamentals project files.
+This public repository contain our PF project TIC TAC TOE game.
 <br>
-Basically it's a tic tac toe game in c language.
+Project Members:
+<br>
+BSEF24A041-MUHAMMAD SAAD AWAN
+<br>
+BSEF24A037-ABU BAKAR
+<BR>
+BSEF24A045-MUJTABA ANJUM
